@@ -1,0 +1,12 @@
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.deps.json
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\bin\Debug\net6.0\ref\ConsignmentShopLibrary.dll
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\bin\Debug\net6.0\ConsignmentShopLibrary.pdb
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.dll
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ref\ConsignmentShopLibrary.dll
+C:\Damian\Basura\Python\ConsigmentShoppingv2\ConsignmentShopLibrary\obj\Debug\net6.0\ConsignmentShopLibrary.pdb
